@@ -1,7 +1,7 @@
-- 👋 Hi, I’m @Sam-366
-- 👀 I’m interested in Machine Learning & Cybersecurity
-- 🌱 I’m currently learning Python
-- 💞️ I’m looking to collaborate on ML & Cybersecurity Projects
+- 👋 Hi, I’m Sam
+- 👀 I’m interested in Software Engineering, Machine Learning & AI
+- 🌱 I’m currently a Software Engineering and AWS Cloud Practioner Student at ALX
+- 💞️ I’m looking to collaborate Data, AI and Software Engineering projects. 
 - 📫 How to reach me my email, ntlombe.s@gmail.com
 
 <!---
