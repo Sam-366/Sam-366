@@ -1,6 +1,5 @@
 - 👋 Hi, I’m Sam
 - 👀 I’m interested in Software Engineering, Machine Learning & AI
-- 🌱 I’m currently a Software Engineering and AWS Cloud Practioner Student at ALX
 - 💞️ I’m looking to collaborate Data, AI and Software Engineering projects. 
 - 📫 How to reach me my email, ntlombe.s@gmail.com
 
